@@ -49,4 +49,4 @@ for f in files:
             writer.write(f' {k} {v}\n')
     print(record_list)
 with open('differance.json', 'w' , encoding='utf-8-sig') as outfile:
-    json.dump(record_dict, outfile)
+    json.dump(record_dict, outfile, sort_keys=True, indent=4, ensure_ascii=False)
