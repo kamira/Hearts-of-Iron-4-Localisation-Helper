@@ -28,6 +28,7 @@
   anti_air_building_desc:0 "此建物可於防禦該地區的空襲行動，並且為當地的建物和設施提供最大限度的保護。"
   synthetic_refinery:0 "合成精煉廠"
   synthetic_refinery_plural:0 "合成精煉廠"
+  #synthetic_refinery_desc:0 "This building provides the state with +1 £resources_strip|3 and +2 £resources_strip|1。"
   synthetic_refinery_desc:0 "此建物為該地區生產的戰略資源："
   synthetic_refinery_amount:0 "$VALUE|Y0=$"
   synthetic_refinery_resource:0 "£resources_strip|$FRAME$"

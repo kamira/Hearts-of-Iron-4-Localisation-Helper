@@ -7,7 +7,7 @@ old_path = '.\\old'
 new_path = '.\\new'
 old_localisation_file_path = '.\\old_localisation_file'
 old_files = []
-regex = r"(\s[\w\d:\_]*) \"(.*)\"$"
+regex = r"(.*(?=\s)) \"(.*)\"$"
 raw_local_content = []
 
 files = [f for f in listdir(old_path) if isfile(os.path.join(old_path, f))]

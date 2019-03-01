@@ -693,6 +693,8 @@
   USA_cv_nav_bomber_equipment_1_short:0 "TBD 破壞者"
   USA_cv_nav_bomber_equipment_2:0 "格魯曼 TBF-1C 復仇者式魚雷攻擊機"
   USA_cv_nav_bomber_equipment_2_short:0 "TBF-1C 復仇者"
+  #USA_cv_nav_bomber_equipment_3:0 "Consolidated TBY Sea Wolf"
+  #USA_cv_nav_bomber_equipment_3_short:0 "TBY Sea Wolf"
   USA_CAS_equipment_1:0 "諾斯洛普 A-17 攻擊機"
   USA_CAS_equipment_1_short:0 "A-17"
   USA_cv_CAS_equipment_2:0 "道格拉斯 SBD-2 無畏式俯衝轟炸機"
