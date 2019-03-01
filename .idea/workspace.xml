@@ -1,13 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f85f4da3-93d4-4960-aed8-9ee05f906b98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/abilities_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/abilities_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/achievements_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/achievements_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/adjacency_rules_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/adjacency_rules_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/air_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/air_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/alerts_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/alerts_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/army_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/army_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/autonomy_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/autonomy_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/bookmarks_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/bookmarks_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/buildings_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/buildings_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/chat_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/chat_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/combat_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/combat_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/constructions_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/constructions_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/core_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/core_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/countries_cosmetic_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/countries_cosmetic_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/countries_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/countries_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/country_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/country_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/decisions_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/decisions_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/deployment_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/deployment_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/designer_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/designer_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/difficulty_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/difficulty_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/diplomacy_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/diplomacy_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/dod_decisions_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/dod_decisions_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/dod_events_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/dod_events_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/dod_focus_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/dod_focus_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/dod_ideas_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/dod_ideas_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/effects_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/effects_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/equip_air_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/equip_air_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/equip_naval_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/equip_naval_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/equipment_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/equipment_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/events_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/events_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/factions_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/factions_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/focus_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/focus_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/frontend_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/frontend_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/game_rules_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/game_rules_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/goals_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/goals_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/government_in_exile_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/government_in_exile_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/ideas_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/ideas_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/loading_tips_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/loading_tips_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/logistics_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/logistics_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/mapmode_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/mapmode_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/modifiers_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/modifiers_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/mtg_decisions_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/mtg_decisions_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/mtg_events_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/mtg_events_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/mtg_focus_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/mtg_focus_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/mtg_ideas_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/mtg_ideas_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/multiplayer_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/multiplayer_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/music_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/music_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/musicplayer_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/musicplayer_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/names_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/names_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/nudge_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/nudge_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/parties_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/parties_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/peace_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/peace_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/poland_dlc_focus_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/poland_dlc_focus_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/politics_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/politics_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/production_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/production_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/province_names_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/province_names_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/ranks_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/ranks_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/research_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/research_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/rules_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/rules_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/scripted_triggers_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/scripted_triggers_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/ship_modules_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/ship_modules_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/state_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/state_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/state_names_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/state_names_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/stats_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/stats_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/strategic_region_names_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/strategic_region_names_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/supply_area_names_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/supply_area_names_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/tactics_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/tactics_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/technology_sharing_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/technology_sharing_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/terrain_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/terrain_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/tfv_events_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/tfv_events_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/theater_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/theater_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/topbar_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/topbar_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/trade_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/trade_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/traits_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/traits_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/triggers_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/triggers_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/tutorial_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/tutorial_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/unit_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/unit_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/victory_points_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/victory_points_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/war_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/war_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/waroverview_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/waroverview_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_border_conflict_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_border_conflict_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_decisions_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_decisions_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_events_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_events_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_focus_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_focus_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_ideas_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_ideas_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_infiltration_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_infiltration_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_political_power_struggle_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_political_power_struggle_l_english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/wtt_ss_recruitment_l_english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/new/wtt_ss_recruitment_l_english.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="79358691">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="283" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="283" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/differance.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret column="343542" selection-start-column="343542" selection-end-column="343542" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="122" />
     <option name="y" value="88" />
     <option name="width" value="1635" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hearts-of-Iron-4-Localisation-Helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hearts-of-Iron-4-Localisation-Helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -36,5 +231,62 @@
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85f4da3-93d4-4960-aed8-9ee05f906b98" name="Default Changelist" comment="" />
+      <created>1551405328018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551405328018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="122" y="88" width="1635" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984346" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7595376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/differance.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret column="343542" selection-start-column="343542" selection-end-column="343542" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
